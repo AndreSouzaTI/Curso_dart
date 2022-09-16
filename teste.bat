@@ -1,0 +1,3 @@
+notepad
+calc
+cmd
